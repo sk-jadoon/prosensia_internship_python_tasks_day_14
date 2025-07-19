@@ -1,0 +1,7 @@
+Month,Product,Units_Sold,Revenue,Region
+Jan,Product A,100,2000,North
+Jan,Product B,150,3000,South
+Feb,Product A,200,4000,East
+Feb,Product C,180,3600,West
+Mar,Product B,220,4400,North
+Mar,Product C,160,3200,East
